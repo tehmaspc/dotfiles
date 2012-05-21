@@ -1,1 +1,1 @@
-linux dotfiles and other stuff
+my favorite set of various linux dotfiles
