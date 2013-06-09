@@ -1,0 +1,9 @@
+[user]
+	name = Tehmasp Chaudhri
+	email = tehmasp@gmail.com
+[color]
+	ui = true
+[branch]
+	autosetuprebase = always
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
