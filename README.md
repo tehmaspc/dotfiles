@@ -1,1 +1,1 @@
-my favorite set of various linux dotfiles
+my personal collection of linux dotfiles
