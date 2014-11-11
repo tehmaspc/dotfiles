@@ -11,3 +11,5 @@
 	rebase = true
 [credential]
 	helper = cache --timeout 600
+[push]
+	default = simple
