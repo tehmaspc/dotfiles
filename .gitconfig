@@ -1,17 +1,17 @@
 [user]
 	name = Tehmasp Chaudhri
 	email = tehmasp@gmail.com
-[color]
-	ui = true
 [branch]
 	autosetuprebase = always
-[alias]
-	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-[pull]
-	rebase = true
-[credential]
-	helper = cache --timeout 600
-[push]
-	default = simple
 [merge]
 	ff = no
+[pull]
+	rebase = true
+[push]
+	default = simple
+[color]
+	ui = true
+[credential]
+	helper = cache --timeout 600
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
