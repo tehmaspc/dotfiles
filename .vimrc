@@ -1,1 +1,1 @@
-see https://github.com/spf13/spf13-vim.git
+see https://github.com/square/maximum-awesome.git
