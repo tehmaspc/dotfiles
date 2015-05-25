@@ -13,3 +13,5 @@
 	helper = cache --timeout 600
 [push]
 	default = simple
+[merge]
+	ff = no
